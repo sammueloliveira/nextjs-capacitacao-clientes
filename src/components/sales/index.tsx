@@ -20,12 +20,12 @@ export function Sales() {
             <CardContent>
                 <article className="flex items-center gap-2 border-b py-2 ">
                     <Avatar className="w-8 h-8">
-                        <AvatarImage src="https://github.com/devfraga.png" />
-                        <AvatarFallback>DV</AvatarFallback>
+                    <AvatarImage src="https://www.gstatic.com/webp/gallery/1.jpg" />
+                     <AvatarFallback>DV</AvatarFallback>
                     </Avatar>
                     <div>
                         <p className="text-sm sm:text-base font-semibold">Programador</p>
-                        <span className="text-[12px] sm:text-sm"></span>
+                        <span className="text-[12px] sm:text-sm">Ferdsv@lgmai.com</span>
                     </div>
                 </article>
             </CardContent>
